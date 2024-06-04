@@ -1,7 +1,7 @@
 {
   "name": "Instagram Token Agent",
   "description": "A service to keep your Instagram Basic Display API token fresh.",
-  "repository": "https://github.com/companionstudio/instagram-token-agent",
+  "repository": "https://github.com/domcie99/instagram-token-agent",
   "logo": "https://raw.githubusercontent.com/companionstudio/instagram-token-agent/master/public/logo.svg?sanitize=true",
   "keywords": ["instagram", "token", "basic-display-api", "instafeed"],
   "addons": [
